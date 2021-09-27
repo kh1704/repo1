@@ -9,3 +9,5 @@ z=vec(){
 for( i in v )
 z[i]=rnorm(5)
 }
+
+# new changes to this file 
